@@ -1,3 +1,6 @@
+<p>BLOG)  <h3>Nest.js Dependency Injection</h3></p>
+<p>https://decode.red/net/archives/1959</p>
+<hr>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
