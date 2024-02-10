@@ -1,0 +1,2 @@
+nest generate resource demousers
+npm i @nestjs/typeorm typeorm pg dotenv
